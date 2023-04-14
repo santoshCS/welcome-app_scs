@@ -40,6 +40,9 @@ margin-top: 0%;
     right: 12%;
    
 }
+.left_container{
+margin: left 2rem;
+}
 
 .nav_svg{
     height: 100%;
@@ -66,13 +69,18 @@ margin-top: 0%;
 }
 .features_cont{
 margin-bottom: 9rem;
-padding: 0 6rem;
+padding: 0 8rem;
 }
 .dark_down{
     transform: translateX(2rem);
 }
 .light_down{
     right: -18%!important;
+}
+.ftext_area{
+position: relative;
+left: 1.4rem;
+
 }
 .ftext{
 position: relative;

@@ -28,8 +28,11 @@ function Container() {
       </div>
     </div>
      <div className="features_cont">
-     <h2>Features</h2>
+      <div className="ftext_area">
+      <h2>Features</h2>
      <p className="ftext">You have been looking for</p>
+      </div>
+     
      <div className="f_box">
        <div className="item"> 
          <h3>Superior Data </h3>

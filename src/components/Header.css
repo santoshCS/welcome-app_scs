@@ -140,6 +140,7 @@
         color: #fff;
         display: none;
         flex: auto;
+        z-index: 10;
     }
     .logo-div{
         flex: auto;

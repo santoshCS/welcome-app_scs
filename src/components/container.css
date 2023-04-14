@@ -115,7 +115,14 @@ border-radius: 8px;
 @media screen and (max-width: 767px){
     .main_area{
         flex-direction: column-reverse;
-        padding: 1rem;
+        /* padding: 1rem; */
+    }
+    .main_area{
+        padding-top: 4rem;
+    }
+    .right_container {
+        position: relative;
+        left: 21px;
     }
     .bg_arrow {
         /* width: 72%;
@@ -124,11 +131,11 @@ border-radius: 8px;
         top: 270px;
         left: 71px;
     }
-    /* .trst_btn_area{
-        position: relative;
-        top: 10rem;
-        left:7.5rem;
-        } */
+    .trst_btn_area{
+        position: absolute;
+        top: 29rem;
+        left: 1.2rem;
+        } 
     .light_Dash{
         width: 100%;
         right: 7%;

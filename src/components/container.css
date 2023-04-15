@@ -123,6 +123,7 @@ border-radius: 8px;
     .right_container {
         position: relative;
         left: 15px;
+        width: 90vw;
     }
     /* .bg_arrow {
 
@@ -131,7 +132,7 @@ border-radius: 8px;
     } */
     .trst_btn_area{
         position: absolute;
-        top: 29rem;
+        top: 27rem;
         left: 1.2rem;
         } 
     .light_Dash{

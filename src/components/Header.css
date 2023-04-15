@@ -160,12 +160,17 @@
     .nav_list_middle{
         flex-direction: column;
         gap: 1rem;
+        margin-bottom: 0;
     }
     .nav-list{
         flex-direction: column;
         gap: 1rem;
+        margin-top: 0;
     }
-    .form-control{
+    .nav_pipe{
+        display: none;
+    }
+    /* .form-control{
         background-color: #fff;
-    }
+    } */
 }

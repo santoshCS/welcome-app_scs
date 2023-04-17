@@ -8,16 +8,7 @@ padding-top: 11rem;
 
 }
 
-.main_bg{
-/* height: auto; */
-/* background-image: url('../assets/Vector.svg');
-background-repeat: no-repeat;
-background-position-x: 80%;
-margin-top: 0%;
-/* margin-right: 20%; */
-/* padding-right: 20%; */
 
-}
 .trst_btn_area{
     position: absolute;
     top: 14rem;
@@ -56,7 +47,7 @@ margin: left 2rem;
     padding: 12px 35px;
     text-align: center;
     cursor: pointer;
-    /* border-radius: 16px; */
+    
 }
 .signup_btn{
     background-color: #0AB2EA;
@@ -65,7 +56,7 @@ margin: left 2rem;
     padding: 10px 35px;
     text-align: center;
     cursor: pointer;
-    /* border-radius: 16px; */
+    
 }
 .features_cont{
 margin-bottom: 9rem;
@@ -115,7 +106,7 @@ border-radius: 8px;
 @media screen and (max-width: 767px){
     .main_area{
         flex-direction: column-reverse;
-        /* padding: 1rem; */
+        
     }
     .main_area{
         padding-top: 4rem;
@@ -125,11 +116,7 @@ border-radius: 8px;
         left: 15px;
         width: 90vw;
     }
-    /* .bg_arrow {
 
-        top: 270px;
-        left: 71px;
-    } */
     .trst_btn_area{
         position: absolute;
         top: 27rem;
